@@ -1,0 +1,26 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramp4/node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Artsem Balunda <rampatv13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramp4/node-js/issues"
+  },
+  "homepage": "https://github.com/ramp4/node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
